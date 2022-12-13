@@ -103,5 +103,5 @@ theme: aurora
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/p8rjieming/blogs-jieming.git
+  repository: https://github.com/p8rjieming/blog.git
   branch: main
